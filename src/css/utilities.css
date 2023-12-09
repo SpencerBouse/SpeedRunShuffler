@@ -1,0 +1,35 @@
+.light-gray{
+  background-color: #242424;
+}
+.mb-1{
+  margin-bottom: 1em;
+}
+.mr-sm{
+  margin-right: 3px;
+}
+.mr-1{
+  margin-right: 1em;
+}
+.ml-sm{
+  margin-left: 3px;
+}
+.p-2{
+  padding: 2em;
+}
+.pt-1{
+  padding-top: 1em;
+}
+.float-l{
+  float: left;
+}
+.float-r{
+  float: right;
+}
+.overflow-auto{
+  overflow: auto;
+}
+.stretch-shadow{
+  background-color: #1a1a1a;
+  box-shadow: 0 0 0 100vmax #1a1a1a;
+  clip-path: inset(0 -100vmax);
+}
